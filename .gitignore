@@ -3,3 +3,6 @@
 
 #arquivos de configuração
 /backend/.env
+
+#node modules
+/backend/node_modules
