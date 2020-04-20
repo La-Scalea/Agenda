@@ -1,0 +1,5 @@
+#pasta de debug do vscode
+/.vscode
+
+#arquivos de configuração
+/backend/.env
