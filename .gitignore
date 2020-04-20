@@ -1,8 +1,2 @@
 #pasta de debug do vscode
 /.vscode
-
-#arquivos de configuração
-/backend/.env
-
-#node modules
-/backend/node_modules

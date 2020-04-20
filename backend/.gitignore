@@ -1,0 +1,6 @@
+
+#arquivos de configuração
+.env
+
+#node modules
+node_modules
